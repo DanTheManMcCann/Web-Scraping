@@ -1,4 +1,3 @@
-//l1029217@mvrht.com is email, thissuck5 is password for form. Username hackedd
 
 var request = require("request"),
 cheerio = require("cheerio"),
